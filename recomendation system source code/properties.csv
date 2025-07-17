@@ -1,0 +1,300 @@
+Type,Price,Bedrooms,Bathrooms,Area,Furnished,Level,Compound,Payment_Option,Delivery_Date,Delivery_Term,City
+Apartment,5800000,2.0,3.0,160.0,No,Ground,Eastown,Cash,Ready to move,Semi Finished,New Cairo - El Tagamoa
+Apartment,1844900,4.0,3.0,222.0,No,1,Beit Al Watan,Cash or Installment,2024,Semi Finished,New Cairo - El Tagamoa
+Duplex,3900000,5.0,5.0,290.0,No,Highest,Jayd,Unknown Payment,Ready to move,Finished,New Cairo - El Tagamoa
+Apartment,1650000,2.0,2.0,144.0,No,1,Zayed 2000,Unknown Payment,Ready to move,Finished,Sheikh Zayed
+Apartment,1560000,3.0,3.0,200.0,Unknown,Ground,Unknown,Unknown Payment,Unknown,Semi Finished,New Cairo - El Tagamoa
+Apartment,992800,3.0,2.0,146.0,Unknown,3,Unknown,Cash or Installment,2024,Semi Finished,New Cairo - El Tagamoa
+Apartment,309825,4.0,3.0,153.0,No,1,Beit Al Watan,Cash or Installment,2024,Semi Finished,New Cairo - El Tagamoa
+Apartment,480000,3.0,3.0,167.0,Unknown,3,90 Avenue,Cash or Installment,Unknown,Finished,New Cairo - El Tagamoa
+Apartment,143000,1.0,1.0,71.0,No,1,Armonia,Cash or Installment,Unknown,Semi Finished,New Capital City
+Apartment,820000,3.0,3.0,184.0,Unknown,1,Palm Hills New Cairo,Cash or Installment,Unknown,Unknown ,New Cairo - El Tagamoa
+Apartment,2350000,3.0,3.0,178.0,No,2,La Mirada,Cash,Ready to move,Finished,New Cairo - El Tagamoa
+Apartment,2100000,3.0,2.0,168.0,No,3,Gardenia,Cash,Ready to move,Finished,6th of October
+Apartment,1500000,3.0,2.0,155.0,No,2,Unknown,Cash or Installment,2023,Semi Finished,New Cairo - El Tagamoa
+Apartment,599000,3.0,2.0,145.0,No,2,Unknown,Cash or Installment,Ready to move,Finished,Badr City
+Duplex,6095000,4.0,5.0,246.0,No,Ground,Village West,Unknown Payment,2024,Finished,Sheikh Zayed
+Apartment,5514000,3.0,3.0,170.0,No,2,Palm Parks,Cash or Installment,Unknown,Finished,Sheikh Zayed
+Duplex,590000,4.0,2.0,238.0,No,Ground,Unknown,Cash or Installment,soon,Not Finished,New Cairo - El Tagamoa
+Apartment,720000,1.0,1.0,90.0,No,2,Midtown Sky,Cash or Installment,2025,Semi Finished,New Capital City
+Apartment,3100000,3.0,2.0,200.0,Unknown,1,Unknown,Installment,Ready to move,Finished,New Cairo - El Tagamoa
+Apartment,1368000,3.0,3.0,169.0,No,Ground,Unknown,Installment,Unknown,Semi Finished,New Cairo - El Tagamoa
+Duplex,1100000,4.0,3.0,282.0,No,Ground,Unknown,Cash or Installment,Unknown,Semi Finished,6th of October
+Apartment,1446394,3.0,2.0,158.0,No,4,Unknown,Unknown Payment,Ready to move,Semi Finished,New Cairo - El Tagamoa
+Apartment,1691150,3.0,2.0,154.5,No,Ground,Unknown,Cash or Installment,soon,Unknown ,New Cairo - El Tagamoa
+Apartment,362000,3.0,3.0,160.0,Unknown,2,Mountain View iCity,Cash or Installment,Ready to move,Unknown ,New Cairo - El Tagamoa
+Duplex,4300000,3.0,3.0,380.0,No,Ground,Unknown,Cash,Ready to move,Finished,Sheikh Zayed
+Apartment,3320000,3.0,3.0,164.0,No,2,EL Patio ORO,Cash or Installment,2024,Not Finished,New Cairo - El Tagamoa
+Apartment,1984000,4.0,3.0,224.0,No,Ground,Beit Al Watan,Cash or Installment,2024,Semi Finished,New Cairo - El Tagamoa
+Apartment,2150000,3.0,2.0,200.0,Yes,8,Unknown,Cash or Installment,Ready to move,Finished,Maadi
+Apartment,1750000,3.0,2.0,166.0,No,1,2020 Compound,Cash,Ready to move,Semi Finished,Sheikh Zayed
+Apartment,2500000,2.0,1.0,143.0,Unknown,5,Madinaty,Cash,Unknown,Finished,Madinaty
+Apartment,1396000,3.0,3.0,179.0,Unknown,Ground,Unknown,Cash or Installment,2024,Semi Finished,6th of October
+Apartment,1180000,3.0,1.0,130.0,No,4,Unknown,Cash,Ready to move,Finished,6th of October
+Apartment,3100000,3.0,3.0,183.0,No,2,Madinaty,Cash,Ready to move,Finished,Madinaty
+Apartment,1805000,2.0,2.0,105.0,Unknown,Ground,Kayan,Installment,2024,Semi Finished,Sheikh Zayed
+Apartment,875000,3.0,2.0,150.0,No,2,Unknown,Cash or Installment,2024,Semi Finished,6th of October
+Apartment,1750000,4.0,3.0,210.0,No,2,Unknown,Cash or Installment,Unknown,Semi Finished,6th of October
+Apartment,2950000,1.0,1.0,106.0,No,Ground,Aeon,Cash,Ready to move,Semi Finished,Sheikh Zayed
+Studio,2704082,1.0,2.0,59.0,Unknown,10+,ZED Towers,Installment,Unknown,Finished,Sheikh Zayed
+Apartment,2700000,2.0,2.0,123.0,No,2,Galleria Moon Valley,Installment,Ready to move,Core & Shell,New Cairo - El Tagamoa
+Apartment,2350000,3.0,2.0,195.0,No,Ground,Unknown,Cash or Installment,Ready to move,Finished,New Cairo - El Tagamoa
+Apartment,4400000,4.0,3.0,200.0,Unknown,3,Madinaty,Cash,Ready to move,Finished,Madinaty
+Apartment,1648000,3.0,3.0,160.0,Unknown,3,Midtown Condo,Cash or Installment,2023,Core & Shell,New Capital City
+Apartment,5550000,2.0,2.0,124.0,No,1,Belle Vie,Cash,2025,Finished,Sheikh Zayed
+Apartment,1613800,3.0,3.0,182.0,Unknown,1,Unknown,Unknown Payment,Unknown,Semi Finished,New Cairo - El Tagamoa
+Penthouse,3700000,4.0,3.0,263.0,No,3,El Khamayel,Cash or Installment,Ready to move,Finished,Sheikh Zayed
+Apartment,3800000,3.0,3.0,198.0,No,2,Unknown,Cash,Ready to move,Finished,Sheikh Zayed
+Apartment,3000000,3.0,3.0,162.0,No,4,Rehab City,Cash,Unknown,Finished,Rehab City
+Apartment,2500000,3.0,2.0,140.0,Unknown,2,Unknown,Unknown Payment,Unknown,Unknown ,Sheikh Zayed
+Apartment,3800000,3.0,2.0,195.0,Unknown,2,Unknown,Unknown Payment,Unknown,Unknown ,Sheikh Zayed
+Penthouse,4128000,3.0,3.0,301.0,Unknown,3,Unknown,Unknown Payment,Unknown,Unknown ,Sheikh Zayed
+Apartment,4100000,4.0,3.0,253.0,Unknown,2,Unknown,Unknown Payment,Unknown,Unknown ,Sheikh Zayed
+Apartment,2520000,3.0,2.0,145.0,Unknown,1,The Address East,Unknown Payment,Unknown,Semi Finished,New Cairo - El Tagamoa
+Apartment,2100000,3.0,2.0,169.0,Unknown,2,Aria,Cash or Installment,2022,Semi Finished,New Cairo - El Tagamoa
+Apartment,2600000,2.0,3.0,135.0,No,Ground,Hyde Park New Cairo,Cash,Ready to move,Core & Shell,New Cairo - El Tagamoa
+Apartment,1400000,2.0,2.0,116.0,Unknown,Ground,Unknown,Unknown Payment,Unknown,Unknown ,New Cairo - El Tagamoa
+Apartment,4500000,3.0,3.0,192.0,Unknown,2,Unknown,Cash,Ready to move,Unknown ,New Cairo - El Tagamoa
+Penthouse,3300000,3.0,3.0,167.0,No,2,Fifth Square,Cash or Installment,2022,Finished,New Cairo - El Tagamoa
+Apartment,5300000,3.0,3.0,205.0,No,2,Fifth Square,Unknown Payment,Unknown,Finished,New Cairo - El Tagamoa
+Duplex,4350000,3.0,3.0,234.0,No,2,Hyde Park New Cairo,Cash or Installment,Unknown,Semi Finished,New Cairo - El Tagamoa
+Apartment,3100000,3.0,2.0,185.0,Unknown,2,Unknown,Unknown Payment,Unknown,Unknown ,Sheikh Zayed
+Apartment,1500000,2.0,1.0,70.0,Yes,3,Madinaty,Cash or Installment,Ready to move,Finished,Madinaty
+Apartment,1650000,2.0,1.0,96.0,No,4,Madinaty,Cash,Ready to move,Finished,Madinaty
+Apartment,800000,3.0,2.0,176.0,Unknown,3,Unknown,Cash or Installment,soon,Finished,New Cairo - El Tagamoa
+Apartment,925000,2.0,1.0,84.0,No,4,Madinaty,Installment,Ready to move,Finished,Madinaty
+Apartment,480000,2.0,1.0,78.0,No,1,Madinaty,Installment,Ready to move,Finished,Madinaty
+Apartment,1680000,3.0,2.0,116.0,No,1,Madinaty,Cash,Ready to move,Finished,Madinaty
+Apartment,1700000,3.0,2.0,116.0,No,1,Madinaty,Cash,Ready to move,Finished,Madinaty
+Apartment,3600000,4.0,3.0,200.0,Unknown,2,Unknown,Cash or Installment,Ready to move,Finished,Madinaty
+Apartment,4100000,3.0,3.0,244.0,Unknown,Ground,Unknown,Cash,Ready to move,Finished,Madinaty
+Apartment,2204875,2.0,2.0,155.0,No,Ground,Sephora Heights,Installment,Ready to move,Semi Finished,New Cairo - El Tagamoa
+Apartment,2700000,3.0,3.0,179.0,Unknown,Ground,Unknown,Installment,Unknown,Unknown ,6th of October
+Apartment,3100000,3.0,3.0,147.0,Unknown,2,Unknown,Installment,Unknown,Unknown ,6th of October
+Apartment,2400000,2.0,2.0,118.0,Unknown,3,Unknown,Installment,Unknown,Unknown ,6th of October
+Apartment,2200000,2.0,2.0,122.0,Unknown,2,Unknown,Installment,Unknown,Unknown ,6th of October
+Apartment,3800000,3.0,3.0,248.0,Unknown,2,Unknown,Installment,Unknown,Unknown ,6th of October
+Apartment,5707888,2.0,2.0,121.0,No,Ground,Cairo Gate,Installment,2025,Finished,Sheikh Zayed
+Apartment,600000,2.0,1.0,70.0,Yes,2,Unknown,Cash,Ready to move,Finished,Sheikh Zayed
+Apartment,2750000,4.0,2.0,180.0,Yes,6,Unknown,Cash,Ready to move,Finished,Maadi
+Apartment,2543129,3.0,2.0,130.0,No,2,Mountain View iCity,Installment,soon,Unknown ,6th of October
+Duplex,3886383,3.0,3.0,235.0,No,Ground,Mountain View iCity,Installment,soon,Not Finished,6th of October
+Duplex,4787252,3.0,3.0,270.0,No,Highest,Mountain View iCity,Installment,2025,Not Finished,6th of October
+Apartment,3867322,4.0,3.0,220.0,No,1,Mountain View iCity,Installment,soon,Unknown ,6th of October
+Apartment,2838367,2.0,2.0,100.0,No,Ground,Mountain View iCity,Installment,2025,Not Finished,6th of October
+Apartment,2931567,3.0,3.0,140.0,No,Ground,Mountain View iCity,Installment,2025,Not Finished,6th of October
+Apartment,3500000,3.0,3.0,180.0,No,2,Rehab City,Cash,Ready to move,Finished,Rehab City
+Apartment,1750000,3.0,2.0,116.0,No,3,Madinaty,Cash,Ready to move,Finished,Madinaty
+Apartment,2600000,3.0,2.0,131.0,Unknown,4,Rehab City,Unknown Payment,soon,Unknown ,Rehab City
+Apartment,6390000,3.0,3.0,170.0,No,3,EL Patio 7,Cash or Installment,Ready to move,Finished,New Cairo - El Tagamoa
+Apartment,250000,4.0,5.0,170.0,Unknown,3,Swan Lake,Installment,Unknown,Finished,New Cairo - El Tagamoa
+Apartment,4767888,2.0,2.0,115.0,No,1,Cairo Gate,Installment,soon,Finished,Sheikh Zayed
+Apartment,3753888,1.0,1.0,86.0,No,3,Cairo Gate,Installment,soon,Finished,Sheikh Zayed
+Apartment,4100000,3.0,3.0,250.0,No,Ground,Mountain View iCity,Installment,2025,Semi Finished,6th of October
+Duplex,4100000,4.0,4.0,400.0,No,Ground,Mountain View Chillout Park,Cash,Ready to move,Semi Finished,Sheikh Zayed
+Apartment,36000,3.0,2.0,161.0,No,2,Unknown,Cash or Installment,Ready to move,Unknown ,New Cairo - El Tagamoa
+Apartment,1800000,2.0,2.0,96.0,No,1,Madinaty,Cash,Ready to move,Finished,Madinaty
+Apartment,1750000,4.0,2.0,135.0,No,4,Unknown,Cash,Ready to move,Finished,Maadi
+Apartment,370000,3.0,3.0,198.0,No,2,Unknown,Cash or Installment,Unknown,Finished,New Capital City
+Apartment,270000,3.0,2.0,160.0,No,3,Unknown,Cash or Installment,Unknown,Semi Finished,New Cairo - El Tagamoa
+Apartment,250000,3.0,2.0,153.0,No,1,Unknown,Cash or Installment,Unknown,Semi Finished,Madinaty
+Apartment,300000,3.0,2.0,180.0,No,2,Unknown,Cash or Installment,Unknown,Semi Finished,New Cairo - El Tagamoa
+Apartment,340000,3.0,2.0,158.0,No,Ground,Unknown,Cash or Installment,Unknown,Finished,New Capital City
+Apartment,250000,3.0,2.0,159.0,No,2,Unknown,Cash or Installment,Unknown,Not Finished,New Capital City
+Apartment,280000,3.0,2.0,204.0,Yes,Ground,Unknown,Cash or Installment,Unknown,Semi Finished,New Capital City
+Apartment,294000,3.0,2.0,143.0,No,Ground,Unknown,Cash or Installment,Unknown,Semi Finished,New Capital City
+Apartment,1850000,3.0,2.0,170.0,No,5,Unknown,Cash,Ready to move,Finished,Maadi
+Apartment,775000,2.0,1.0,70.0,No,4,Unknown,Cash,Ready to move,Unknown ,Sheikh Zayed
+Apartment,250000,3.0,2.0,169.0,No,2,Unknown,Cash or Installment,Unknown,Unknown ,New Cairo - El Tagamoa
+Apartment,420000,3.0,2.0,191.0,No,2,Unknown,Cash or Installment,Unknown,Not Finished,New Cairo - El Tagamoa
+Apartment,370000,3.0,2.0,157.0,No,2,Unknown,Cash or Installment,Unknown,Not Finished,New Cairo - El Tagamoa
+Apartment,1650000,2.0,2.0,96.0,No,4,Madinaty,Unknown Payment,Unknown,Finished,Madinaty
+Apartment,5315888,2.0,2.0,117.0,No,5,Cairo Gate,Installment,soon,Finished,Sheikh Zayed
+Apartment,4500000,3.0,4.0,236.0,No,1,Aeon,Installment,Ready to move,Unknown ,6th of October
+Apartment,2150000,3.0,1.0,107.0,Unknown,Ground,Unknown,Unknown Payment,Unknown,Unknown ,Madinaty
+Duplex,2963820,4.0,4.0,277.0,Unknown,Ground,Unknown,Cash or Installment,Unknown,Unknown ,New Capital City
+Apartment,218000,3.0,2.0,155.0,Unknown,7,De Joya,Cash or Installment,Unknown,Unknown ,New Capital City
+Apartment,2125000,2.0,2.0,134.0,Unknown,2,Al Burouj,Cash or Installment,Ready to move,Finished,New Cairo - El Tagamoa
+Apartment,3100000,3.0,2.0,175.0,No,5,Madinaty,Cash,Unknown,Finished,Madinaty
+Apartment,2350000,3.0,2.0,210.0,Unknown,3,Unknown,Cash,Unknown,Unknown ,New Cairo - El Tagamoa
+Apartment,1650000,2.0,2.0,96.0,No,4,Unknown,Cash or Installment,Unknown,Finished,Madinaty
+Apartment,290000,3.0,3.0,199.0,No,Ground,Unknown,Cash or Installment,Unknown,Unknown ,New Capital City
+Apartment,1162500,3.0,2.0,155.0,No,2,The City,Cash,within 6 months,Semi Finished,New Capital City
+Apartment,415000,3.0,2.0,141.0,No,3,Unknown,Cash or Installment,Unknown,Unknown ,New Cairo - El Tagamoa
+Apartment,1470000,3.0,2.0,116.0,Unknown,1,Unknown,Unknown Payment,Unknown,Unknown ,Madinaty
+Apartment,1480000,3.0,2.0,165.0,Unknown,1,Andalus,Cash or Installment,Ready to move,Semi Finished,New Cairo - El Tagamoa
+Apartment,385000,4.0,4.0,337.0,Unknown,2,Unknown,Cash or Installment,Unknown,Unknown ,New Capital City
+Apartment,260000,3.0,2.0,170.0,No,1,Unknown,Cash or Installment,Unknown,Unknown ,New Cairo - El Tagamoa
+Apartment,260000,3.0,2.0,170.0,No,2,Unknown,Cash or Installment,Unknown,Unknown ,Rehab City
+Apartment,370000,3.0,2.0,157.0,No,3,Hyde Park New Cairo,Cash or Installment,Unknown,Unknown ,New Cairo - El Tagamoa
+Apartment,280000,3.0,2.0,160.0,No,3,Unknown,Cash or Installment,Unknown,Unknown ,New Cairo - El Tagamoa
+Apartment,449000,3.0,3.0,165.0,No,Ground,Hyde Park New Cairo,Cash or Installment,Unknown,Unknown ,New Cairo - El Tagamoa
+Apartment,345000,3.0,2.0,145.0,No,Ground,Unknown,Cash or Installment,Unknown,Unknown ,New Cairo - El Tagamoa
+Apartment,2900000,3.0,3.0,128.0,No,2,Tag Sultan,Installment,Ready to move,Core & Shell,New Cairo - El Tagamoa
+Apartment,270000,3.0,2.0,170.0,No,3,Unknown,Cash or Installment,Unknown,Unknown ,New Capital City
+Apartment,172000,3.0,2.0,145.0,Unknown,2,Unknown,Unknown Payment,Unknown,Unknown ,Sheikh Zayed
+Apartment,5875664,3.0,2.0,154.0,No,Ground,Sun Capital,Installment,Ready to move,Unknown ,6th of October
+Apartment,1200000,3.0,3.0,170.0,Unknown,3,Unknown,Cash or Installment,soon,Semi Finished,Sheikh Zayed
+Apartment,340000,3.0,3.0,180.0,No,2,Unknown,Cash or Installment,Unknown,Unknown ,New Cairo - El Tagamoa
+Apartment,2400000,3.0,2.0,125.0,No,Ground,Madinaty,Cash,Ready to move,Finished,Madinaty
+Apartment,1660000,3.0,2.0,175.0,No,1,Unknown,Cash or Installment,soon,Semi Finished,Sheikh Zayed
+Apartment,2000000,3.0,2.0,123.0,No,3,Rehab City,Cash,Ready to move,Finished,Rehab City
+Apartment,330000,3.0,2.0,170.0,No,2,Unknown,Cash or Installment,Unknown,Not Finished,New Cairo - El Tagamoa
+Apartment,1710000,3.0,3.0,180.0,Unknown,2,Unknown,Cash or Installment,Ready to move,Semi Finished,Sheikh Zayed
+Apartment,2400000,4.0,3.0,200.0,Unknown,2,Unknown,Cash,Ready to move,Finished,New Cairo - El Tagamoa
+Apartment,330000,3.0,2.0,160.0,No,3,Unknown,Cash or Installment,Unknown,Unknown ,New Cairo - El Tagamoa
+Apartment,210000,3.0,2.0,165.0,No,2,Unknown,Cash or Installment,Unknown,Unknown ,New Capital City
+Apartment,1500000,1.0,1.0,250.0,Unknown,3,Unknown,Cash,Ready to move,Finished,New Cairo - El Tagamoa
+Apartment,2580000,3.0,3.0,160.0,No,Ground,EL Patio 7,Cash or Installment,Ready to move,Finished,New Cairo - El Tagamoa
+Apartment,300000,3.0,2.0,155.0,No,3,Unknown,Cash or Installment,Unknown,Unknown ,New Cairo - El Tagamoa
+Penthouse,5950000,5.0,4.0,350.0,Unknown,3,Unknown,Cash,Ready to move,Finished,New Cairo - El Tagamoa
+Apartment,5030000,3.0,3.0,250.0,No,4,Palm Hills New Cairo,Installment,soon,Unknown ,New Cairo - El Tagamoa
+Apartment,2100000,2.0,2.0,110.0,No,Ground,Rehab City,Cash,Ready to move,Finished,Rehab City
+Apartment,112000,2.0,2.0,97.0,Unknown,2,Unknown,Unknown Payment,Unknown,Unknown ,Sheikh Zayed
+Apartment,2800000,3.0,2.0,200.0,Unknown,1,Unknown,Cash,Ready to move,Finished,New Cairo - El Tagamoa
+Apartment,1500000,3.0,3.0,158.0,Unknown,4,Unknown,Cash,Ready to move,Semi Finished,New Cairo - El Tagamoa
+Apartment,300000,3.0,2.0,170.0,No,2,Unknown,Cash or Installment,Unknown,Unknown ,New Cairo - El Tagamoa
+Apartment,2300000,3.0,2.0,134.0,No,10+,Unknown,Cash,Unknown,Finished,Maadi
+Apartment,3837000,2.0,2.0,138.0,No,3,90 Avenue,Installment,2023,Finished,New Cairo - El Tagamoa
+Apartment,3500000,3.0,3.0,170.0,No,2,Galleria Moon Valley,Installment,Ready to move,Core & Shell,New Cairo - El Tagamoa
+Apartment,2650000,1.0,1.0,58.0,Unknown,7,Unknown,Installment,Unknown,Finished,New Capital City
+Apartment,1986000,3.0,3.0,188.0,No,3,Unknown,Cash or Installment,Unknown,Semi Finished,New Capital City
+Apartment,2569047,1.0,1.0,60.0,Yes,3,Unknown,Cash or Installment,Unknown,Finished,New Capital City
+Apartment,6210000,1.0,2.0,115.0,Yes,10+,Unknown,Cash or Installment,Unknown,Finished,New Capital City
+Apartment,2840000,2.0,2.0,127.0,Yes,Ground,Fifth Square,Cash or Installment,Ready to move,Finished,New Cairo - El Tagamoa
+Apartment,1200000,3.0,2.0,140.0,No,2,Unknown,Cash,Ready to move,Finished,New Cairo - El Tagamoa
+Apartment,300000,3.0,3.0,177.0,No,3,Unknown,Cash or Installment,Unknown,Unknown ,New Capital City
+Apartment,181000,3.0,2.0,160.0,Unknown,2,Unknown,Unknown Payment,Unknown,Unknown ,New Cairo - El Tagamoa
+Apartment,4500000,4.0,3.0,253.0,No,4,Rehab City,Cash,Ready to move,Finished,Rehab City
+Apartment,1450000,2.0,2.0,89.0,No,2,Madinaty,Cash,Ready to move,Finished,Madinaty
+Apartment,1450000,3.0,2.0,160.0,Unknown,Ground,Unknown,Cash,soon,Finished,6th of October
+Duplex,4850000,5.0,5.0,290.0,No,3,Jayd,Cash,Ready to move,Finished,New Cairo - El Tagamoa
+Apartment,4200000,3.0,3.0,237.0,No,4,Rehab City,Cash,Ready to move,Finished,Rehab City
+Apartment,1600000,3.0,2.0,181.0,No,4,Unknown,Cash or Installment,Ready to move,Semi Finished,New Cairo - El Tagamoa
+Apartment,8000000,4.0,3.0,181.0,Unknown,3,Unknown,Cash or Installment,Ready to move,Finished,New Cairo - El Tagamoa
+Apartment,2130000,4.0,4.0,237.0,Unknown,2,Beit Al Watan,Cash or Installment,Ready to move,Semi Finished,Sheikh Zayed
+Duplex,750000,5.0,4.0,371.0,Unknown,Ground,Beit Al Watan,Cash or Installment,Ready to move,Semi Finished,Sheikh Zayed
+Apartment,580000,4.0,3.0,233.0,No,2,Unknown,Cash or Installment,Unknown,Unknown ,New Cairo - El Tagamoa
+Apartment,1950000,3.0,3.0,162.0,Unknown,4,The Square,Cash,Ready to move,Semi Finished,New Cairo - El Tagamoa
+Apartment,2000000,2.0,1.0,96.0,No,Ground,Madinaty,Cash,Ready to move,Finished,Madinaty
+Apartment,5363000,3.0,2.0,263.0,No,3,Unknown,Cash or Installment,Ready to move,Semi Finished,6th of October
+Apartment,3485000,2.0,2.0,133.0,Yes,3,Mountain View Hyde Park,Cash,Ready to move,Finished,New Cairo - El Tagamoa
+Apartment,1650000,2.0,2.0,96.0,No,4,Madinaty,Cash,Unknown,Unknown ,New Cairo - El Tagamoa
+Apartment,415000,3.0,2.0,157.0,No,Ground,Taj City,Cash or Installment,Unknown,Unknown ,New Cairo - El Tagamoa
+Apartment,2500000,3.0,3.0,155.0,No,1,Unknown,Cash,Ready to move,Finished,Rehab City
+Apartment,3353000,3.0,2.0,157.0,No,2,Unknown,Cash or Installment,Ready to move,Semi Finished,6th of October
+Apartment,294000,3.0,2.0,170.0,No,2,Unknown,Cash or Installment,Unknown,Semi Finished,New Cairo - El Tagamoa
+Apartment,4450000,3.0,2.0,216.0,No,2,Unknown,Cash or Installment,Ready to move,Semi Finished,6th of October
+Duplex,8781000,3.0,3.0,317.0,No,3,Unknown,Cash or Installment,Unknown,Unknown ,New Cairo - El Tagamoa
+Apartment,1800000,3.0,2.0,179.0,No,2,Unknown,Cash or Installment,soon,Core & Shell,New Cairo - El Tagamoa
+Apartment,1991000,3.0,2.0,158.0,No,2,Unknown,Cash or Installment,2024,Core & Shell,New Cairo - El Tagamoa
+Apartment,2600000,3.0,4.0,190.0,Unknown,4,Unknown,Cash or Installment,Unknown,Unknown ,New Capital City
+Apartment,1550000,2.0,2.0,130.0,No,4,Midtown Condo,Cash or Installment,Unknown,Unknown ,New Capital City
+Apartment,1050000,2.0,2.0,129.0,Unknown,Ground,Unknown,Cash,Ready to move,Semi Finished,New Cairo - El Tagamoa
+Apartment,2000000,3.0,2.0,165.0,No,Ground,El Khamayel,Cash,Ready to move,Finished,Sheikh Zayed
+Apartment,700000,3.0,3.0,176.0,No,2,Unknown,Cash or Installment,Unknown,Unknown ,New Cairo - El Tagamoa
+Apartment,1450000,3.0,3.0,168.0,No,5,Unknown,Cash,Ready to move,Semi Finished,New Cairo - El Tagamoa
+Apartment,500000,3.0,3.0,185.0,Unknown,2,Al Burouj,Cash or Installment,Unknown,Finished,Madinaty
+Apartment,500000,3.0,3.0,180.0,Unknown,2,Taj City,Cash or Installment,Ready to move,Unknown ,New Cairo - El Tagamoa
+Apartment,260000,3.0,2.0,174.0,Unknown,3,Unknown,Cash or Installment,Unknown,Unknown ,New Capital City
+Apartment,1480000,3.0,3.0,169.0,No,2,Unknown,Cash,Ready to move,Semi Finished,New Cairo - El Tagamoa
+Apartment,280000,3.0,2.0,160.0,No,2,Unknown,Cash or Installment,Unknown,Unknown ,New Cairo - El Tagamoa
+Apartment,300000,3.0,2.0,174.0,No,3,Unknown,Cash or Installment,Unknown,Unknown ,New Cairo - El Tagamoa
+Apartment,4100000,3.0,3.0,205.0,No,3,Palm Hills New Cairo,Cash,Ready to move,Unknown ,New Cairo - El Tagamoa
+Apartment,3000000,3.0,3.0,160.0,No,Ground,Continental Gardens,Cash,Ready to move,Finished,Sheikh Zayed
+Penthouse,2350000,3.0,3.0,175.0,No,3,Stone Residence,Cash,Ready to move,Semi Finished,New Cairo - El Tagamoa
+Apartment,290000,2.0,1.0,128.0,No,2,Unknown,Cash or Installment,Unknown,Unknown ,New Cairo - El Tagamoa
+Apartment,2800000,3.0,3.0,153.0,No,Ground,Etapa,Cash,Ready to move,Finished,Sheikh Zayed
+Apartment,275000,2.0,1.0,122.0,No,Ground,Unknown,Cash or Installment,Unknown,Unknown ,New Cairo - El Tagamoa
+Penthouse,3200000,5.0,4.0,275.0,No,3,Stone Residence,Cash,Ready to move,Semi Finished,New Cairo - El Tagamoa
+Apartment,1300000,3.0,2.0,165.0,No,2,Mountain View iCity,Cash or Installment,2025,Semi Finished,New Cairo - El Tagamoa
+Penthouse,2800000,4.0,4.0,220.0,No,3,Stone Residence,Cash,Ready to move,Semi Finished,New Cairo - El Tagamoa
+Apartment,1400000,2.0,2.0,115.0,No,Ground,Dar Misr,Cash,Ready to move,Finished,Sheikh Zayed
+Apartment,2550000,3.0,3.0,179.0,Unknown,3,Unknown,Installment,Ready to move,Finished,New Capital City
+Apartment,1700000,2.0,1.0,128.0,No,Ground,Stone Residence,Cash,Ready to move,Semi Finished,New Cairo - El Tagamoa
+Apartment,6569000,2.0,2.0,222.0,Unknown,2,Unknown,Cash or Installment,Unknown,Core & Shell,New Cairo - El Tagamoa
+Penthouse,7394000,2.0,2.0,300.0,No,3,Unknown,Cash or Installment,Unknown,Unknown ,New Cairo - El Tagamoa
+Apartment,1600000,3.0,2.0,155.0,No,1,Unknown,Cash,Ready to move,Finished,6th of October
+Duplex,2250000,3.0,3.0,211.0,No,Ground,Amorada,Cash or Installment,Ready to move,Finished,New Cairo - El Tagamoa
+Apartment,1750000,3.0,2.0,130.0,Unknown,4,Dar Misr,Cash,Ready to move,Finished,Sheikh Zayed
+Apartment,4000000,3.0,3.0,205.0,No,3,Palm Hills New Cairo,Cash,Ready to move,Unknown ,New Cairo - El Tagamoa
+Apartment,3000000,3.0,3.0,180.0,No,1,Palm Hills New Cairo,Cash,Ready to move,Unknown ,New Cairo - El Tagamoa
+Apartment,1525797,2.0,2.0,120.0,No,1,Unknown,Cash or Installment,2024,Not Finished,New Capital City
+Apartment,1681202,2.0,2.0,130.0,No,1,Unknown,Cash or Installment,2024,Not Finished,New Capital City
+Apartment,1681202,2.0,2.0,130.0,No,7,Unknown,Cash or Installment,2024,Not Finished,New Capital City
+Apartment,5030000,3.0,3.0,250.0,No,3,Palm Hills New Cairo,Installment,Ready to move,Unknown ,New Cairo - El Tagamoa
+Apartment,4250000,2.0,2.0,139.0,No,3,Cairo Festival City,Cash,Ready to move,Semi Finished,New Cairo - El Tagamoa
+Apartment,1750000,2.0,2.0,96.0,No,5,Unknown,Cash,Unknown,Finished,Madinaty
+Apartment,1680000,3.0,2.0,116.0,No,1,Madinaty,Cash,Ready to move,Finished,Madinaty
+Apartment,2402000,3.0,3.0,164.0,No,3,Sarai,Installment,Ready to move,Core & Shell,New Cairo - El Tagamoa
+Apartment,5340000,4.0,3.0,425.0,No,2,Unknown,Cash,Ready to move,Finished,New Cairo - El Tagamoa
+Apartment,5000000,3.0,3.0,224.0,Unknown,5,Rehab City,Cash,soon,Finished,Rehab City
+Apartment,400000,3.0,2.0,161.0,No,3,Unknown,Cash or Installment,Ready to move,Finished,New Cairo - El Tagamoa
+Apartment,1200000,3.0,3.0,180.0,Unknown,2,Unknown,Cash or Installment,Ready to move,Unknown ,New Cairo - El Tagamoa
+Apartment,400000,3.0,3.0,185.0,No,2,Al Burouj,Unknown Payment,Unknown,Finished,Madinaty
+Apartment,550000,3.0,2.0,151.0,No,2,Swan Lake,Cash or Installment,Unknown,Finished,New Cairo - El Tagamoa
+Apartment,600000,3.0,3.0,170.0,No,3,Unknown,Cash or Installment,Ready to move,Unknown ,New Cairo - El Tagamoa
+Apartment,1300000,3.0,2.0,140.0,No,Ground,Unknown,Cash,Ready to move,Semi Finished,New Cairo - El Tagamoa
+Apartment,300000,3.0,2.0,170.0,No,3,Jayd,Cash or Installment,Unknown,Unknown ,Rehab City
+Apartment,5030000,3.0,3.0,250.0,No,2,Palm Hills New Cairo,Installment,Ready to move,Unknown ,New Cairo - El Tagamoa
+Duplex,5690000,4.0,3.0,200.0,No,Ground,Trio Gardens,Cash or Installment,2023,Finished,New Cairo - El Tagamoa
+Apartment,248000,2.0,2.0,128.0,No,2,Stone Residence,Installment,Ready to move,Semi Finished,New Cairo - El Tagamoa
+Duplex,2500000,4.0,3.0,350.0,No,4,Dyar,Cash,Ready to move,Finished,New Cairo - El Tagamoa
+Penthouse,4700000,4.0,3.0,174.0,No,Highest,Fifth Square,Installment,soon,Finished,New Cairo - El Tagamoa
+Apartment,3590000,3.0,2.0,160.0,Unknown,1,Mountain View iCity,Cash or Installment,within 6 months,Semi Finished,New Cairo - El Tagamoa
+Apartment,2200000,3.0,3.0,220.0,No,2,Unknown,Cash or Installment,Ready to move,Core & Shell,New Cairo - El Tagamoa
+Apartment,151000,3.0,2.0,148.0,No,2,Unknown,Cash or Installment,Unknown,Semi Finished,New Capital City
+Duplex,4000000,5.0,3.0,620.0,No,Ground,Unknown,Cash or Installment,Ready to move,Finished,Sheikh Zayed
+Apartment,2750000,3.0,3.0,157.0,No,1,Etapa,Cash or Installment,Ready to move,Finished,Sheikh Zayed
+Apartment,3150000,3.0,3.0,174.0,No,4,Palm Hills New Cairo,Cash,Ready to move,Semi Finished,New Cairo - El Tagamoa
+Penthouse,3300000,2.0,3.0,128.0,No,Highest,EL Patio ORO,Installment,2023,Semi Finished,New Cairo - El Tagamoa
+Apartment,2250000,3.0,3.0,160.0,Unknown,1,Mountain View iCity,Cash,Ready to move,Semi Finished,New Cairo - El Tagamoa
+Apartment,1500000,2.0,1.0,90.0,Unknown,3,Rehab City,Cash,Ready to move,Finished,Rehab City
+Apartment,1450000,4.0,2.0,170.0,Unknown,3,Unknown,Cash,Ready to move,Finished,6th of October
+Apartment,2700000,3.0,3.0,165.0,No,1,Madinaty,Cash,Ready to move,Finished,Madinaty
+Apartment,9500000,4.0,4.0,240.0,No,2,Swan Lake,Cash or Installment,2025,Finished,New Cairo - El Tagamoa
+Apartment,1485504,2.0,2.0,110.0,No,Ground,Unknown,Unknown Payment,2024,Unknown ,New Capital City
+Apartment,2610000,3.0,3.0,174.0,No,1,Leila,Cash,Ready to move,Finished,New Cairo - El Tagamoa
+Apartment,2250000,3.0,2.0,135.0,Unknown,6,Madinaty,Cash,Ready to move,Finished,Madinaty
+Apartment,3000000,3.0,3.0,240.0,No,1,Unknown,Cash or Installment,Ready to move,Not Finished,New Cairo - El Tagamoa
+Duplex,3300000,4.0,4.0,330.0,No,Ground,Unknown,Cash,Ready to move,Unknown ,New Cairo - El Tagamoa
+Duplex,5805000,3.0,3.0,185.0,No,5,Mountain View iCity,Installment,within 6 months,Core & Shell,New Cairo - El Tagamoa
+Apartment,3100000,3.0,3.0,175.0,No,5,Unknown,Cash,Ready to move,Finished,Madinaty
+Duplex,765000,3.0,2.0,225.0,Unknown,1,Unknown,Cash or Installment,2024,Unknown ,New Cairo - El Tagamoa
+Apartment,500000,2.0,1.0,135.0,Unknown,1,Unknown,Cash or Installment,2025,Unknown ,New Capital City
+Studio,1003000,1.0,1.0,69.0,No,Ground,Tag Sultan,Cash or Installment,2024,Not Finished,New Cairo - El Tagamoa
+Apartment,1455000,3.0,3.0,150.0,No,5,Unknown,Installment,2025,Semi Finished,New Capital City
+Apartment,1150000,3.0,2.0,140.0,No,3,Unknown,Cash,Unknown,Unknown ,6th of October
+Duplex,3196000,3.0,5.0,287.0,No,4,Unknown,Cash or Installment,2025,Semi Finished,New Capital City
+Apartment,700000,3.0,3.0,170.0,Yes,3,Swan Lake,Installment,soon,Finished,New Cairo - El Tagamoa
+Apartment,1000000,4.0,3.0,277.0,No,4,Unknown,Cash or Installment,Ready to move,Unknown ,New Cairo - El Tagamoa
+Apartment,500000,3.0,3.0,180.0,No,2,Unknown,Cash or Installment,Ready to move,Unknown ,New Cairo - El Tagamoa
+Apartment,700000,3.0,3.0,200.0,No,Ground,Unknown,Cash or Installment,Unknown,Unknown ,Madinaty
+Apartment,2500000,4.0,3.0,200.0,No,Ground,Stone Residence,Cash,Ready to move,Semi Finished,New Cairo - El Tagamoa
+Apartment,1478000,3.0,2.0,120.0,No,7,Unknown,Cash or Installment,Unknown,Unknown ,New Capital City
+Apartment,1478000,3.0,2.0,120.0,No,7,Unknown,Cash or Installment,Unknown,Unknown ,New Capital City
+Apartment,420000,2.0,1.0,64.0,No,1,Unknown,Cash,Unknown,Finished,New Cairo - El Tagamoa
+Apartment,330000,3.0,2.0,175.0,Unknown,1,Unknown,Cash or Installment,2024,Unknown ,New Cairo - El Tagamoa
+Apartment,2750000,3.0,3.0,200.0,No,1,Zayed Dunes,Cash,Ready to move,Core & Shell,Sheikh Zayed
+Apartment,6211000,4.0,3.0,254.0,No,2,Palm Hills New Cairo,Cash or Installment,soon,Not Finished,New Cairo - El Tagamoa
+Apartment,1950000,2.0,3.0,155.0,No,Ground,Stone Residence,Cash,Ready to move,Semi Finished,New Cairo - El Tagamoa
+Apartment,1600000,3.0,3.0,180.0,No,Ground,Not in Compound,Cash or Installment,Ready to move,Semi Finished,New Cairo - El Tagamoa
+Apartment,2000000,3.0,2.0,177.0,No,1,Unknown,Cash,Ready to move,Unknown ,6th of October
+Apartment,1950000,3.0,3.0,175.0,No,1,Stone Residence,Cash,Ready to move,Semi Finished,New Cairo - El Tagamoa
+Apartment,2350000,4.0,3.0,220.0,No,1,Stone Residence,Cash,Ready to move,Semi Finished,New Cairo - El Tagamoa
+Apartment,1550000,3.0,2.0,150.0,Unknown,4,Unknown,Unknown Payment,Ready to move,Semi Finished,New Cairo - El Tagamoa
+Apartment,1650000,2.0,2.0,140.0,No,1,Stone Residence,Cash,Ready to move,Semi Finished,New Cairo - El Tagamoa
+Apartment,1350000,2.0,2.0,140.0,No,1,Stone Residence,Cash,Ready to move,Not Finished,New Cairo - El Tagamoa
+Apartment,2700000,3.0,2.0,136.0,No,Ground,Madinaty,Cash,Unknown,Finished,Madinaty
+Apartment,1700000,3.0,2.0,155.0,Unknown,4,Unknown,Cash,Ready to move,Finished,Sheikh Zayed
+Apartment,1950000,2.0,2.0,103.0,No,Ground,IL Bosco City,Cash or Installment,2025,Not Finished,New Cairo - El Tagamoa
+Apartment,2250000,3.0,3.0,250.0,No,Ground,Unknown,Cash,Ready to move,Finished,Sheikh Zayed
+Apartment,2500000,2.0,1.0,145.0,Yes,1,Unknown,Cash,Unknown,Finished,Madinaty
+Apartment,550000,3.0,3.0,167.0,No,2,Fifth Square,Installment,Ready to move,Finished,New Cairo - El Tagamoa
+Apartment,600000,3.0,3.0,140.0,No,Ground,Fifth Square,Installment,Ready to move,Finished,New Cairo - El Tagamoa
+Apartment,3800000,3.0,3.0,181.0,Unknown,4,Rehab City,Cash,Unknown,Finished,Rehab City
+Apartment,2000000,2.0,1.0,98.0,No,Ground,Madinaty,Cash,Ready to move,Finished,Madinaty
+Apartment,1958910,3.0,3.0,209.0,No,2,Unknown,Cash or Installment,2025,Semi Finished,New Cairo - El Tagamoa
+Apartment,1900000,3.0,3.0,168.0,Unknown,3,Unknown,Cash or Installment,Unknown,Unknown ,New Capital City
+Apartment,600000,3.0,3.0,169.0,No,Ground,Sephora Heights,Cash or Installment,Ready to move,Semi Finished,New Cairo - El Tagamoa
+Apartment,1525979,2.0,2.0,120.0,No,7,Unknown,Cash or Installment,2024,Not Finished,New Capital City
